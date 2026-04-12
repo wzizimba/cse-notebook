@@ -19,7 +19,7 @@ A = (1/h^2)*spdiags([-e, 2*e, -e], [-1, 0, 1], n, n);
 
 % Function
 f = sin(pi*x);
-u_ = sin(pi*x)/pi^2; %% Analytic sol
+u_ = sin(pi*x)/pi^2; % Analytic sol
 
 %% System sol
 u = A \ f;
