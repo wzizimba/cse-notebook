@@ -6,7 +6,7 @@
 %                            ---
 clc;
 % Parameters
-N = 112; % grid intervals
+N = 70; % grid intervals
 h = 1/N; % grid spacing
 x = (h:h:1-h)'; % column vector of inner grid points (x_i)
 
