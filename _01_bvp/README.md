@@ -16,5 +16,5 @@ The boundary value problem solver $\texttt(sol\_.m)$ dicretises the $N$ interior
 
 The discrete error between the numerical and analytical solutions obeys $\text{error}_2 \propto N^{-2}$, so the method is second-rder convergent. 
 
-This is confirmed visually: as the log-log plot gives a straight line with slope -2. ![Analytical vs Numerical Solution](plots/l2_error)
+This is confirmed visually: as the log-log plot gives a straight line with slope -2. ![Error Convergence](plots/l2_error.jpg)
 
