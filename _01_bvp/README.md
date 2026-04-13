@@ -10,4 +10,4 @@ $$
 
 The analytical solution is: 
 
-$$ u(x) = \sin(\pi x)/\pi^2
+$$ u(x) = \sin(\pi x)/\pi^2$$
