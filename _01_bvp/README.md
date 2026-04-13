@@ -22,7 +22,10 @@ This is confirmed visually: as the log-log plot gives a straight line with slope
 
 <img src="plots/l2_error.jpg" width="350">
 
+The two Octave programs [(src/sol_.m) and (src/conv_.m)] reproduce figures in Section 2.1.3 (Convergence Analysis) of the MIT course notes: 
 
+---
+# Reference
 
 
 
