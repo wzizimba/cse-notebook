@@ -7,3 +7,7 @@ u(0) = 0, \\
 u(1) = 0. 
 \end{cases}
 $$
+
+The analytical solution is: 
+
+$$ u(x) = \sin(\pi x)/\pi^2
