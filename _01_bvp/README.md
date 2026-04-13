@@ -14,15 +14,19 @@ $$ \vec{v} = \left( \frac{\sin(x_1\pi)}{\pi^2}, \frac{\sin(x_2\pi)}{\pi^2}, \ldo
 
 The boundary value problem solver $\texttt(sol\_.m)$ dicretises the $N$ interior grid points and a second-order central difference produces a tridiagonal system $A\vec{u} = \vec{f}$ and plots the numerical and analytical solutions.
 
+<div align=''center''>
 <img src="plots/sol_comparison.jpg" width="350">
+</div>
 
 The discrete error between the numerical and analytical solutions obeys $\text{error}_2 \propto N^{-2}$, so the method is second-rder convergent. 
 
 This is confirmed visually: as the log-log plot gives a straight line with slope -2. 
 
+<div align=''center''>
 <img src="plots/l2_error.jpg" width="350">
-
-The two Octave programs [(src/sol_.m) and (src/conv_.m)] reproduce figures in Section 2.1.3 (Convergence Analysis) of the MIT course notes: 
+</div>
+  
+The two Octave programs [sol\_.m](src/sol_.m) and [conv_.m](src/conv_.m) reproduce figures in Section 2.1.3 (Convergence Analysis) of the MIT course notes: 
 
 ---
 # Reference
