@@ -12,4 +12,6 @@ The analytical solution is:
 
 $$ \vec{v} = \left( \frac{\sin(x_1\pi)}{\pi^2}, \frac{\sin(x_2\pi)}{\pi^2}, \ldots, \frac{\sin(x_N\pi)}{\pi^2} \right)^T $$
 
-The [BVP solver](src/sol_.m) dicretises the $N$ interior grid point and a second-order central difference produces a tridiagonal system $A\vec{u} = \vec{f}$
+The boundary value problem solver $\texttt(sol_.m)$ dicretises the $N$ interior grid points and a second-order central difference produces a tridiagonal system $A\vec{u} = \vec{f}$
+
+The discrete 
