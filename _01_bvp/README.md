@@ -14,7 +14,7 @@ $$ \vec{v} = \left( \frac{\sin(x_1\pi)}{\pi^2}, \frac{\sin(x_2\pi)}{\pi^2}, \ldo
 
 The boundary value problem solver $\texttt(sol\_.m)$ dicretises the $N$ interior grid points and a second-order central difference produces a tridiagonal system $A\vec{u} = \vec{f}$ and plots the numerical and analytical solutions.
 
-<div align=''center''>
+<div align="center">
 <img src="plots/sol_comparison.jpg" width="350">
 </div>
 
@@ -22,7 +22,7 @@ The discrete error between the numerical and analytical solutions obeys $\text{e
 
 This is confirmed visually: as the log-log plot gives a straight line with slope -2. 
 
-<div align=''center''>
+<div align="center">
 <img src="plots/l2_error.jpg" width="350">
 </div>
   
@@ -30,6 +30,5 @@ The two Octave programs [sol\_.m](src/sol_.m) and [conv_.m](src/conv_.m) reprodu
 
 ---
 # Reference
-
-
+[1] Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Week 2 Lecture Notes*. Massachusetts Institute of Technology, OpenCourseWare.
 
