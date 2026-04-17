@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-This folder contains a revision of the convergence program in [_01_bvp](_01_bvp/src) implemented in Python for the second problem in the [course worksheet]()
+This folder contains a revision of the convergence program in [_01_bvp](.../_01_bvp/) implemented in Python for the second problem in [2]
 
 ---
 
@@ -100,7 +100,7 @@ _Figure 1: Error convergence plot from [python script](src/pde_sol_.py) (source:
 
 ---
 # References
-[1] [Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Week 2 Lecture Notes*. Massachusetts Institute of Technology, OpenCourseWare.]()
+[1] [Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Week 2 Lecture Notes*. Massachusetts Institute of Technology, OpenCourseWare.](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/resources/mit18_085summer20_lec_w2/)
 
-[2] [Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Homework 2*. Massachusetts Institute of Technology, OpenCourseWare.]()
+[2] [Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Homework 2*. Massachusetts Institute of Technology, OpenCourseWare.](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/resources/mit18_085summer20_ps2/)
 
