@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-This folder contains a revision of the convergence program in [_01_bvp](.../_01_bvp/) implemented in Python for the second problem in [2]
+This folder contains a revision of the convergence program in [_01_bvp](../_01_bvp/) implemented in Python for the second problem in [2]
 
 ---
 
