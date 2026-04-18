@@ -89,7 +89,7 @@ $$
 **5. Results**
 
 <div align="center">
-<img src="plots/conve_.webp" width="350">
+<img src="plots/convergence_plot.webp" width="350">
 </div>
 
 _Figure 1: Error convergence plot from [python script](src/pde_sol_.py) (source: Author, 2026)_
