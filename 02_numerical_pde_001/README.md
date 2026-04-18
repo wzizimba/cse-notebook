@@ -97,6 +97,9 @@ _Figure 1: Error convergence plot from [python script](src/pde_sol_.py) (source:
 
 ---
 **6. Interpretation** 
+The log-log plot results in a slope of -1.935 which affirms that the central finite diffrence scheme is second-order accurate: 
+
+$$\|e\|_{L^2} = \mathcal{O}(h^2) = \mathcal{O}(N^{-2})$$
 
 ---
 # References
