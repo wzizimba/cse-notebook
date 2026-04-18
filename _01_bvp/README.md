@@ -30,5 +30,5 @@ The two Octave programs [sol\_.m](src/sol_.m) and [conv_.m](src/conv_.m) reprodu
 
 ---
 # Reference
-[1] Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Week 2 Lecture Notes*. Massachusetts Institute of Technology, OpenCourseWare.
+[1] [Zhang, R. (2020). *18.085/18.0851 Computational Science and Engineering I: Week 2 Lecture Notes*. Massachusetts Institute of Technology, OpenCourseWare.](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/resources/mit18_085summer20_lec_w2/)
 
