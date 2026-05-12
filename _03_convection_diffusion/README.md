@@ -6,8 +6,8 @@ $$-Du''+u'=1$$
 
 under the Dirichlet boundary conditions:
 
-$$u(0) = 0$$, $$u(1) = 0$$
+$$u(0) = 0$$ $$u(1) = 0$$
 
-When the coefficient D is very small, $D= \frac_{1}{2}$ as in this case, the term $u'$ dominates. This causes a region of rapid change near $x=1$
+When the coefficient D is very small, $$D = \frac{1}{2}$$, as in this case, the term $u'$ dominates. This causes a region of rapid change near $x=1$
 
 
