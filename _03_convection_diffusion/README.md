@@ -14,5 +14,9 @@ The exact solution is
 
 $$u(x) = x - \frac{e^{x/D-1}}{e^{1/D}-1}$$
 
+<div align="center">
+<img src="plots/exctsol.jpg" width="350">
+</div>
 
+Figure 1: Exact solution $u(x)$ for $D = \frac{1}{25}$. The rapid change near $x = 1$ is the boundar layer caused by convection dominance.
 
