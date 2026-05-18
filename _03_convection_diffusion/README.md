@@ -12,7 +12,7 @@ When the coefficient D is very small, $$D = \frac{1}{2}$$, as in this case, the 
 
 The exact solution is
 
-$$u(x) = x - \frac{e^{x/D-1}}{e^{1/D}-1}$$
+$$u(x) = x - \frac{e^{x/D}-1}{e^{1/D}-1}$$
 
 <div align="center">
 <img src="plots/exctsol.jpg" width="350">
