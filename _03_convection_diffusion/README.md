@@ -20,3 +20,7 @@ $$u(x) = x - \frac{e^{x/D}-1}{e^{1/D}-1}$$
 
 Figure 1: Exact solution $u(x)$ for $D = \frac{1}{25}$. The rapid change near $x = 1$ is the boundar layer caused by convection dominance.
 
+
+---
+# References
+[1] [Strang, G. (2008). *18.085 Computational Science and Engineering I: MATLAB Homwork Set 1*. Massachusetts Institute of Technology, OpenCourseWare.]([https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-summer-2020/resources/mit18_085summer20_lec_w2/](https://ocw.mit.edu/courses/18-085-computational-science-and-engineering-i-fall-2008/resources/mt1_18085_f07/))
